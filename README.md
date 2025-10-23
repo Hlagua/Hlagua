@@ -57,7 +57,3 @@ Me motiva seguir aprendiendo tecnologías modernas y participar en proyectos col
 
 ---
 
-> _“Sin contexto.”_  
-> — Henry Lagua
-
----
