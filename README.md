@@ -15,6 +15,15 @@ Disfruto creando proyectos que integran lógica sólida con buenas prácticas de
 Me motiva seguir aprendiendo tecnologías modernas y participar en proyectos colaborativos que fortalezcan mis habilidades técnicas y profesionales.
 
 ---
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-seven-rouge-90.vercel.app/api?username=Hlagua&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-seven-rouge-90.vercel.app/api/top-langs/?username=Hlagua&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
+
+
+---
 
 ## 🧠 Tecnologías y herramientas que manejo
 
