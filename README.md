@@ -1,16 +1,21 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Hlagua
 
-<!--
-**Hlagua/Hlagua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenido a mi perfil de GitHub.
 
-Here are some ideas to get you started:
+## 📫 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Desarrollador apasionado por la tecnología y el código abierto.
+
+## 🛠️ Tecnologías y Herramientas
+
+- 💻 Desarrollo de software
+- 🌐 Proyectos web
+- 🔧 Herramientas de desarrollo
+
+## 📊 Estadísticas de GitHub
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Hlagua&show_icons=true&theme=default)
+
+## 📫 Contacto
+
+¡No dudes en explorar mis repositorios y conectar conmigo!
