@@ -52,13 +52,12 @@ Me motiva seguir aprendiendo tecnologías modernas y participar en proyectos col
 
 ## 📫 Cómo contactarme
 
-- ✉️ **Correo:** henrydaniel.laguaflores@uta.edu.ec  
-- 🌐 **LinkedIn:** [linkedin.com/in/henrylagua](#) *(actualiza este enlace cuando tengas tu perfil)*  
+- ✉️ **Correo:** hlagua6116@uta.edu.ec  
 - 🧑‍💻 **GitHub:** [github.com/Hlagua](https://github.com/Hlagua)
 
 ---
 
-> _“El mejor código es aquel que no solo funciona, sino que también enseña algo nuevo cada vez que lo lees.”_  
+> _“Sin contexto.”_  
 > — Henry Lagua
 
 ---
